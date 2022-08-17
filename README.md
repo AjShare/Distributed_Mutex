@@ -2,7 +2,7 @@
 Program to implement the Ricart-Agrawala algorithm for distributed mutual exclusion in python
 
 ## System Requirements:
-### 1. Operating System: Windows 10
+### 1. Operating System: Windows 10 or later
 ### 2. Python should be installed in your PC
   #### a. Open Command Prompt > Type Python, Hit Enter If Python Is Installed it will show the version Details
   #### b. Python 2 or Python 3 should be installed.
@@ -10,7 +10,7 @@ Program to implement the Ricart-Agrawala algorithm for distributed mutual exclus
   
   
 ##Instructions to execute the code:
-### 1. Extract the contents of zip folder in a new folder.
+### 1. Download the contents to a local folder.
 ### 2. To start the execution, you have have 2 options:
 #### a. Rename “RA_run.txt” to “RA_run.bat” and Execute the file named as “RA_run.bat” by double clicking on it.
 #### b. Or execute the command “python RA_algo.py” in a Command Prompt at the location where these files are stored.
