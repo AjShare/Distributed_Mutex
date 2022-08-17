@@ -9,7 +9,7 @@ Program to implement the Ricart-Agrawala algorithm for distributed mutual exclus
   #### c. ‘threading’ and ‘sys’ packages should be part of your python installation. Generally, it comes by default.
   
   
-##Instructions to execute the code:
+## Instructions to execute the code:
 ### 1. Download the contents to a local folder.
 ### 2. To start the execution, you have have 2 options:
 #### a. Rename “RA_run.txt” to “RA_run.bat” and Execute the file named as “RA_run.bat” by double clicking on it.
